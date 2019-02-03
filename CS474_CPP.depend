@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1542571165 source:c:\users\manika\desktop\c\cs474_cpp\musicclip.cpp
+	"MusicClip.h"
+
+1542571063 c:\users\manika\desktop\c\cs474_cpp\musicclip.h
+	<string>
+	<vector>
+	<stdint.h>
+
+1542570778 source:c:\users\manika\desktop\c\cs474_cpp\linkedlist.cpp
+	"LinkedList.h"
+
+1542570558 c:\users\manika\desktop\c\cs474_cpp\linkedlist.h
+	"MusicClipPtr.h"
+
+1542571025 c:\users\manika\desktop\c\cs474_cpp\musicclipptr.h
+	"Memory.h"
+	<queue>
+
+1542571319 c:\users\manika\desktop\c\cs474_cpp\memory.h
+	"MusicClip.h"
+
+1542570409 source:c:\users\manika\desktop\c\cs474_cpp\main.cpp
+	<iostream>
+	"Command.h"
+	<fstream>
+	<vector>
+
+1542570482 c:\users\manika\desktop\c\cs474_cpp\command.h
+	"LinkedList.h"
+
+1542570819 source:c:\users\manika\desktop\c\cs474_cpp\musicclipptr.cpp
+	"MusicClipPtr.h"
+
+1542571401 source:c:\users\manika\desktop\c\cs474_cpp\copying.cpp
+	"Command.h"
+	<iostream>
+	<fstream>
+
+1542573887 source:c:\users\manika\desktop\c\cs474_cpp\creator.cpp
+	"Command.h"
+	<iostream>
+
+1542571572 source:c:\users\manika\desktop\c\cs474_cpp\editor.cpp
+	"Command.h"
+	<iostream>
+
+1542571661 source:c:\users\manika\desktop\c\cs474_cpp\memory.cpp
+	"Memory.h"
+	<fstream>
+	<stdint.h>
+	<iostream>
+
+1542571805 source:c:\users\manika\desktop\c\cs474_cpp\listor.cpp
+	"Command.h"
+	<iostream>
+
+1542572011 source:c:\users\manika\desktop\c\cs474_cpp\pricechanger.cpp
+	"Command.h"
+	<iostream>
+
+1542572006 source:c:\users\manika\desktop\c\cs474_cpp\saver.cpp
+	"Command.h"
+	<queue>
+	<iostream>
+
